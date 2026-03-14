@@ -7,17 +7,6 @@ I am an engineer focused on bridging the gap between software logic and financia
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=degagaalemayehu5-cell&show_icons=true&theme=radical&hide_border=true" alt="Degaga's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degagaalemayehu5-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=degagaalemayehu5-cell&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎓 Academic Focus & Thesis
 **Deep Learning & Computer Vision:** I am currently working on my engineering thesis focused on image classification using:
 - **Architectures:** ResNet, MobileNet, EfficientNet
@@ -46,9 +35,20 @@ I am an engineer focused on bridging the gap between software logic and financia
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/degaga-alemayehu-0254983b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/degaga-alemayehu-0254983b7/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/momozeneme)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:degagaalemayehu5@gmail.com)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=degagaalemayehu5-cell&show_icons=true&theme=radical&hide_border=true" alt="Degaga's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degagaalemayehu5-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=degagaalemayehu5-cell&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
