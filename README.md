@@ -1,8 +1,27 @@
-# Hi there, I'm Degaga Alemayehu 👋
+# Hi there, I'm Degaga Alemayehu 👋 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=degagaalemayehu5-cell&label=PROFILE%20VIEWS&countColor=%232631ef)
 
 ### Full-Stack Software Developer | Electrical & Computer Engineering Student
 
 I am an engineer focused on bridging the gap between software logic and financial market speculation. Currently finishing my degree at Hawassa University.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=degagaalemayehu5-cell&show_icons=true&theme=radical&hide_border=true" alt="Degaga's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degagaalemayehu5-cell&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=degagaalemayehu5-cell&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎓 Academic Focus & Thesis
+**Deep Learning & Computer Vision:** I am currently working on my engineering thesis focused on image classification using:
+- **Architectures:** ResNet, MobileNet, EfficientNet
+- **Environment:** TensorFlow, PyTorch
 
 ---
 
